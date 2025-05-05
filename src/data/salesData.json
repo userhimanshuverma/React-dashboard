@@ -1,0 +1,22 @@
+[
+  { "id": 1, "product": "Laptop", "region": "North", "date": "2023-01-15", "sales": 120 },
+  { "id": 2, "product": "Smartphone", "region": "South", "date": "2023-01-18", "sales": 200 },
+  { "id": 3, "product": "Tablet", "region": "East", "date": "2023-01-20", "sales": 150 },
+  { "id": 4, "product": "Monitor", "region": "West", "date": "2023-02-01", "sales": 100 },
+  { "id": 5, "product": "Headphones", "region": "North", "date": "2023-02-05", "sales": 90 },
+  { "id": 6, "product": "Keyboard", "region": "South", "date": "2023-02-10", "sales": 85 },
+  { "id": 7, "product": "Mouse", "region": "East", "date": "2023-02-12", "sales": 95 },
+  { "id": 8, "product": "Charger", "region": "West", "date": "2023-02-15", "sales": 80 },
+  { "id": 9, "product": "Webcam", "region": "North", "date": "2023-02-18", "sales": 110 },
+  { "id": 10, "product": "Desk", "region": "South", "date": "2023-02-20", "sales": 60 },
+  { "id": 11, "product": "Chair", "region": "East", "date": "2023-02-22", "sales": 75 },
+  { "id": 12, "product": "Docking Station", "region": "West", "date": "2023-02-25", "sales": 55 },
+  { "id": 13, "product": "Monitor", "region": "North", "date": "2023-03-01", "sales": 130 },
+  { "id": 14, "product": "Laptop", "region": "South", "date": "2023-03-03", "sales": 170 },
+  { "id": 15, "product": "Tablet", "region": "East", "date": "2023-03-06", "sales": 145 },
+  { "id": 16, "product": "Smartphone", "region": "West", "date": "2023-03-08", "sales": 190 },
+  { "id": 17, "product": "Keyboard", "region": "North", "date": "2023-03-10", "sales": 100 },
+  { "id": 18, "product": "Mouse", "region": "South", "date": "2023-03-12", "sales": 105 },
+  { "id": 19, "product": "Webcam", "region": "East", "date": "2023-03-15", "sales": 95 },
+  { "id": 20, "product": "Charger", "region": "West", "date": "2023-03-18", "sales": 85 }
+]
